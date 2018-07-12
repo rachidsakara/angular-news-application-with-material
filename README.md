@@ -14,11 +14,11 @@ from different angles
 
 Next step is getting a free API key at [News API](https://newsapi.org/) witch will help us make some call request to the server and retrive the news articles. 
 
-Once the api key in your hands, go to `/src/app/news-api.service.ts` and paste it to where it said put “put_your_api_key_here”.
+Once the api key is in your hands, go to `/src/app/news-api.service.ts` and paste it to where it said put “put_your_api_key_here”.
 
 ## Installing dependencies
 
-After the downloading the repostory head on to the project root folder and run the `npm install` command line.
+After the downloading the repository head on to the project root folder and run the `npm install` command line.
 
 ## Development server
 
