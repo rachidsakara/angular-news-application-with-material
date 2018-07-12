@@ -4,19 +4,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project overview
 
-![News Application](/screenshots/overview.PNG?raw=true)
+![News Application](/screenshots/introduction.PNG?raw=true)
 
-From diffrent ongles
+from different angles
 
 ![News Application full overview](/screenshots/overview.PNG?raw=true)
 
-## Free Api Key
+## Acquiring Free API Key
 
-Next step is getting a free API key at ![News API](https://newsapi.org) witch will help us make some call request to the server and retrive the news articles. 
+Next step is getting a free API key at [News API](https://newsapi.org/) witch will help us make some call request to the server and retrive the news articles. 
 
 Once the api key in your hands, go to `/src/app/news-api.service.ts` and paste it to where it said put “put_your_api_key_here”.
 
-## Installing dependecies
+## Installing dependencies
 
 After the downloading the repostory head on to the project root folder and run the `npm install` command line.
 
