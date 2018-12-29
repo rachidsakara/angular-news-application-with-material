@@ -6,3 +6,44 @@ body {
     padding: 2em 23em;
     background:lightgray;
 }
+
+/*----------------Update------------------*/
+
+
+
+/*Media Queries for fixing distortion at some points*/
+
+@media screen and (max-width: 1150px){
+     body{
+    	padding: 2em 11.5em !important;
+    }
+
+}
+
+/*Media Queries For Tablates*/
+
+@media screen and (max-width: 1024px){
+     body{
+    	padding: 0em 0em !important;
+    }
+}
+
+@media screen and (max-width: 960px){
+    body{
+    	padding: 0em 0em !important;
+    }
+}
+
+@media screen and (max-width:768px){
+   body{
+    	padding: 0em 0em !important;
+    }
+}
+
+/*Media Queries For Mobiles*/
+@media screen and (max-width:480px){
+   
+
+   body{
+    	padding: 0em 0em !important;
+    }
